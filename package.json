@@ -1,0 +1,19 @@
+{
+  "name": "vercel-countdown",
+  "version": "1.0.0",
+  "description": "A countdown timer application deployed on Vercel.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "vercel dev",
+    "build": "vercel build"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "countdown",
+    "timer",
+    "vercel"
+  ],
+  "author": "",
+  "license": "MIT"
+}
